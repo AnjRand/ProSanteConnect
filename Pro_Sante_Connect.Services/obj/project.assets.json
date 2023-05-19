@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HAIRUN-PC\\Desktop\\Nouveau dossier\\Nouveau dossier\\ProSanteConnect\\Services\\Pro_Sante_Connect.Services.csproj",
+      "projectUniqueName": "C:\\Users\\HAIRUN-PC\\Desktop\\Nouveau dossier\\Nouveau dossier\\ProSanteConnect\\Pro_Sante_Connect.Services\\Pro_Sante_Connect.Services.csproj",
       "projectName": "Pro_Sante_Connect.Services",
-      "projectPath": "C:\\Users\\HAIRUN-PC\\Desktop\\Nouveau dossier\\Nouveau dossier\\ProSanteConnect\\Services\\Pro_Sante_Connect.Services.csproj",
+      "projectPath": "C:\\Users\\HAIRUN-PC\\Desktop\\Nouveau dossier\\Nouveau dossier\\ProSanteConnect\\Pro_Sante_Connect.Services\\Pro_Sante_Connect.Services.csproj",
       "packagesPath": "C:\\Users\\HAIRUN-PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HAIRUN-PC\\Desktop\\Nouveau dossier\\Nouveau dossier\\ProSanteConnect\\Services\\obj\\",
+      "outputPath": "C:\\Users\\HAIRUN-PC\\Desktop\\Nouveau dossier\\Nouveau dossier\\ProSanteConnect\\Pro_Sante_Connect.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
