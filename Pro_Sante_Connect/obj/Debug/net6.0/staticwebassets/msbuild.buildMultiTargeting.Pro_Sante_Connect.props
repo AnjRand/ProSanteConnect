@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pro_Sante_Connect.props" />
+</Project>
